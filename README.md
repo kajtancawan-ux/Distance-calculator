@@ -30,8 +30,10 @@ enter distance in kilometers: 61
 distance in miles:  37.903631
 
 ## Author
-#Kim AIden J. Tancawan
-#8-Rosal
+
+Kim AIden J. Tancawan
+
+8-Rosal
 
 https://www.programiz.com/online-compiler/4Z2GmqiAnclVj
     
