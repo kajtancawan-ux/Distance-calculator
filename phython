@@ -1,8 +1,10 @@
+#Asks for the distance in kilometer
 x = float(input("input distance in kilo meters: "))
 y = 0.621371
 z = x*y
 print("distance in miles:",z)
 
+#Asks for another input and if none then program ends
 a = input("do you want another distance? yes/no: ")
 if a== "yes":
     q = float(input("enter distance in kilometers: "))
