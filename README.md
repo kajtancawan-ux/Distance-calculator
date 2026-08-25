@@ -1,7 +1,8 @@
 # Distance-calculator
 
-#this code aims to help convert kilometers to miles 
-#The first line of code which is x asks for the distance in kilometers and the rest of the line calculates for kilometers to miles.
+this code aims to help convert kilometers to miles 
+
+The first line of code which is x asks for the distance in kilometers and the rest of the line calculates for kilometers to miles.
 
  ## How to run
  
