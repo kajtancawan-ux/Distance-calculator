@@ -3,7 +3,7 @@
 #this code aims to help convert kilometers to miles 
 #The first line of code which is x asks for the distance in kilometers and the rest of the line calculates for kilometers to miles.
 
- ##How to run
+ ## How to run
  
  1.Open the program file in VS Code, Replit, or Google Colab.
  
@@ -13,10 +13,11 @@
  
  4.get the final output
 
- ##input needed
+ ## input needed
+ 
   -distance in kilometers
 
- ##sample output
+ ## sample output
  
 input distance in kilo meters: 67
 
@@ -28,7 +29,7 @@ enter distance in kilometers: 61
 
 distance in miles:  37.903631
 
-##Author
+## Author
 #Kim AIden J. Tancawan
 #8-Rosal
 
